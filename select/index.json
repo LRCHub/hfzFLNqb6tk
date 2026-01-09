@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Trust・Last -TYPE K-",
+  "base_artist": "倖田來未",
+  "createdAt": "2026-01-09T07:01:37.015842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trust・Last -TYPE K-",
+      "artist": "倖田來未",
+      "has_synced": false,
+      "path": "select/01_Trust・Last_-TYPE_K-_倖田來未.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trust・Last -TYPE K-",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_01_Trust・Last_-TYPE_K-_倖田_來未.txt"
+    }
+  ]
+}
